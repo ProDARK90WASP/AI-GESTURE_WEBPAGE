@@ -1,0 +1,28 @@
+.heading{
+    border-radius:20px;
+    width:100%;
+    margin-top:0px;
+    height:80px;
+    color:white;
+    font-size:30px;
+    background-color: lightseagreen;
+    box-shadow: 10px 10px 10px black;
+}
+.notice_span{
+    color:red;
+    font-size: 15px;
+}
+body{
+    background-color: darkgreen;
+}
+#footer{
+    position: fixed;
+    margin-top: 510px;
+    background-color: grey;
+    color: white;
+    width: 100%;
+    font-size: 20px;
+}
+canvas{
+    border: 10px solid orangered;
+}
